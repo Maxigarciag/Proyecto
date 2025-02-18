@@ -1,0 +1,25 @@
+/* Estilos globales de index.css */
+
+/* Ejemplo de estilos globales */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+  }
+  
+  /* Estilos específicos de la aplicación que estaban en App.css */
+  
+  /* Contenedor principal */
+  .app-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  /* Puedes agregar más estilos globales y específicos aquí */
+  
