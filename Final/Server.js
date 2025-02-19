@@ -15,7 +15,7 @@ app.use(bodyParser.json());
 const db = mysql.createConnection({
     host: "localhost", // Cambiar según tu configuración
     user: "root",      // Usuario de la base de datos
-    password: "45516905", // Contraseña de la base de datos
+    password: "Maxigarcia4554", // Contraseña de la base de datos
     database: "Proyecto_para_recibirnos", // Nombre de la base de datos
 });
 
